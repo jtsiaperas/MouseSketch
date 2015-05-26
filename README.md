@@ -1,0 +1,2 @@
+# MouseSketch
+Javascript/JQuery exercise
